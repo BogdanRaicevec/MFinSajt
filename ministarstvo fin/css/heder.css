@@ -1,0 +1,77 @@
+header {
+    max-height: 130px;
+    height: 130px;
+    max-width: 1400px;
+    width: 100%;
+    margin: auto;
+    background-color: green;
+}
+
+#j-traka {
+    height: 20px;
+    max-width: 1400px;
+    width: 100%;
+   
+    background-color: #024778;
+    color: white;
+    font-size: 0.55em;
+    padding-top: 10px;
+    
+}
+
+
+ .jt-tekst{
+    
+    color: aliceblue;
+    text-decoration: none;
+    
+    margin-bottom: -10px;
+    
+}
+
+
+.u_traci1 {
+        
+    float: left;
+        
+}
+
+.u_traci1 a{
+    padding-right: 25px;
+}
+
+.u_traci2 {
+    
+    float: right;
+   
+}
+
+.u_traci2 a{
+    padding-left: 25px;
+}
+
+
+#LS-traka {
+    
+    max-height: 100px;
+    max-width: 1400px;
+    width: 100%;
+    
+    background-color: white;
+    padding: 14px 0;
+}
+
+#logo img{
+    max-width: 100%;
+}
+
+#logo {
+    width: auto;
+}
+
+.okvir {
+    max-width: 960px;
+    width: 100%;
+    margin: auto;
+    
+}
